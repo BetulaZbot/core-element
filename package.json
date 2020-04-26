@@ -1,0 +1,15 @@
+{
+  "name": "core-element",
+  "version": "0.0.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "betulachen",
+  "license": "ISC",
+  "dependencies": {
+    "core-event": "0.0.10",
+    "is": "^3.3.0"
+  }
+}
